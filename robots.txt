@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://oophaighie.biwenjie.com/sitemap.xml
